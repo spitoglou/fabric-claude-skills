@@ -33,7 +33,7 @@ This project bridges [Daniel Miessler's Fabric](https://github.com/danielmiessle
 ### Or clone the entire repository:
 
 ```bash
-git clone https://github.com/[your-username]/fabric-claude-skills.git
+git clone https://github.com/spitoglou/fabric-claude-skills.git
 cd fabric-claude-skills
 
 # Copy all skills to Claude's skill directory
@@ -302,7 +302,7 @@ Verify the skill routes correctly for various phrasings of the same intent.
 
 ---
 
-## Credits
+## Credits & Disclaimer
 
 This project builds on the excellent work of:
 
@@ -310,6 +310,8 @@ This project builds on the excellent work of:
 - **[Anthropic](https://anthropic.com)** - Claude and the skill system architecture
 
 The patterns in this repository are adapted from Fabric's open-source collection and restructured for Claude's skill format.
+
+**Disclaimer:** This is an independent project. Daniel Miessler and the Fabric team have no affiliation with, involvement in, or responsibility for this work. This project simply adapts patterns from Fabric's open-source repository into a format suitable for Claude's skill system.
 
 ---
 

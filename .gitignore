@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Build artifacts
+*.skill
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Logs
+*.log
+
+# Local development
+.env
+.env.local
